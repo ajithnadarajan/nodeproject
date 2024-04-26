@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "cors": "^2.8.5",
+    "cros": "^1.0.1",
+    "express": "^4.19.2",
+    "mongoose": "^8.3.2"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "nodeproject",
+  "version": "1.0.0",
+  "main": "server.js",
+  "author": "ajith",
+  "license": "ISC",
+  "description": ""
+}
